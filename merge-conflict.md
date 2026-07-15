@@ -1,4 +1,4 @@
-odin1
-dva
+odin
+dva2
 tri
 chetire
